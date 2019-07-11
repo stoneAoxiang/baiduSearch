@@ -6,9 +6,8 @@ SearchEngines = {
     'baidu': 'http://www.baidu.com/s?wd={0}&pn={1}'
 }
 
-
-SearchEngineResultSelectors= {
+SearchEngineResultSelectors = {
     'google': '//h3/a/@href',
-    'bing':'//h2/a/@href',
-    'baidu':'//h3/a/@href',
+    'bing': '//h2/a/@href',
+    'baidu': '//h3/a/@href',
 }
